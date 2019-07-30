@@ -5,9 +5,9 @@ import javax.mail.*;
 import javax.mail.internet.*;
 
 public class Email {
-    private static String USER_NAME = "Julian.Shermann";  // GMail user name (just the part before "@gmail.com")
-    private static String PASSWORD = "Chiny2017"; // GMail password
-    private static String RECIPIENT = "whiteelk@wp.pl";
+    private static String USER_NAME = "********.****";  // GMail user name (just the part before "@gmail.com")
+    private static String PASSWORD = "^^^^^^"; // GMail password
+    private static String RECIPIENT = "####@wp.pl";
 
     public static void sendEmail(){
 
